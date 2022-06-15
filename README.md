@@ -1,2 +1,0 @@
-#ChinowswhatsbestforJona
-Our Wedding RSVP
