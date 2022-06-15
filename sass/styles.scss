@@ -10,7 +10,7 @@ p {
 
 h1 {
     font-size: 60px;
-    color: #93254F;
+    color: #D7B46F;
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-    color: #93254F;
+    color: #D7B46F;
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -29,7 +29,7 @@ h3 {
 }
 
 h4 {
-    color: #93254F;
+    color: #D7B46F;
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 0px;
@@ -39,19 +39,19 @@ h4 {
 
 h5 {
     font-size: 18px;
-    color: #93254F;
+    color: #D7B46F;
     font-weight: bold;
     text-transform: uppercase;
     font-weight: bold
 }
 
 h6 {
-    color: #93254F;
+    color: #D7B46F;
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 29px;
-    font-family: 'aerotis', sans-serif;
+    font-family: 'Yasmine Rothem', sans-serif;
     padding-top: 40px;
                                                 
 }
@@ -91,20 +91,20 @@ h6 {
 /*submit*/
 .btn-fill {
     color: #fff;
-    border: solid 2px #93254F;
+    border: solid 2px #D7B46F;
     -moz-border-radius: 40px;
     -webkit-border-radius: 40px;
     border-radius: 40px;
     display: inline-block;
     text-transform: uppercase;
-    background-color: #93254F
+    background-color: #D7B46F
 }
 
 .btn-fill:hover,
 .btn-fill:focus {
     color: black;
-    background-color: #cca371;
-    border-color: #cca371
+    background-color: #C2C5EE;
+    border-color: #C2C5EE
 }
 
 .btn-small {
@@ -135,7 +135,7 @@ h6 {
 }
 /*floating arrow bottom*/
 a {
-    color: #93254F;
+    color: #D7B46F;
     -webkit-transition-timing-function: ease;
     transition-timing-function: ease;
     -webkit-transition-duration: 200ms;
@@ -155,7 +155,7 @@ body {
     font-weight: 300;
     color: black;
     -webkit-text-size-adjust: 100%;
-    background: white
+    background: #ecc3be21
 
 }
 
@@ -421,7 +421,7 @@ section .header {
 }
 /*floating Arrow top*/
 .hero .down-arrow a {
-    color: #cca371
+    color: #C2C5EE
 }
 /*not in use*/
 .hero h1 {
@@ -455,7 +455,7 @@ section .header {
 .fixed {
     padding: 0px 0px;
     position: fixed;
-    background-color: #ca3b72;
+    background-color: #E7BDC0;
     z-index: 999;
     width: 100%
 }
@@ -485,7 +485,7 @@ header .logo {
 }
 
 header .logo img {
-    width: 200px;
+    width: 250px;
 }
 
 header ul.primary-nav {
@@ -1025,7 +1025,7 @@ header .member-actions {
 }
 /*RSVP Icons*/
 .rsvp .rsvp-form .form-input-group i {
-    color: #93254F;
+    color: #D7B46F;
     font-size: 14px
 }
 
@@ -1129,7 +1129,7 @@ ol {
 
 
 strong {
-      Color: #93254F
+      color: #D7B46F
 }
 
 iframe {
